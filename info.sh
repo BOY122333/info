@@ -1,6 +1,6 @@
 clear
 sleep 1
-"
+echo -e"
 ██╗███╗░░██╗███████╗░█████╗░
 ██║████╗░██║██╔════╝██╔══██╗
 ██║██╔██╗██║█████╗░░██║░░██║
@@ -26,14 +26,14 @@ echo -e "[+]   "
 echo -e "[+]   "
 sleep 2
 sleep 1
-echo -e"
+echo "
 ============================
 || y <mengulangi Tools>   ||
 || n <keluar Tools>       ||
 ============================
 "
 echo
-read -p"ketik y/n " ren9999
+read -p"ketik y/n :" ren9999
 if [ $ren9999 == y ] 
 then
 clear
