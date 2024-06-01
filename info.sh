@@ -38,7 +38,6 @@ if [ $ren9999 == y ]
 then
 clear
 sleep 1
-exit
 git clone https://github.com/BOY122333/ToolsRenv2.git
 cd ToolsRenv2
 bash REN.sh
