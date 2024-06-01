@@ -26,9 +26,9 @@ if [ $ren9999 == y ]
 then
 clear
 sleep 1
-git clone https://github.com/BOY122333/ToolsRenv2.git
-cd ToolsRenv2
-bash REN.sh
+git clone https://github.com/ewepaksa123/info-ToolsRenv2.git
+cd info-ToolsRenv2
+bash info-ToolsRenv2.sh
 fi
 if [ $ren9999 == n ] 
 then
