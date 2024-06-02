@@ -27,8 +27,9 @@ if [ $ren9999 == y ]
 then
 clear
 sleep 1
-bash REN.sh
-fi
+https://github.com/ewepaksa123/menu.git
+cd menu
+bash menu.sh
 if [ $ren9999 == n ] 
 then
 clear
