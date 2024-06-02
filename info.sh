@@ -2,8 +2,7 @@ clear
 git pull
 clear
 sleep 1
-echo "\x1B[34minfo menu baru ToolsRenv2"
-echo "\x1B[34m
+echo "
 █ █▄░█ █▀▀ █▀█   █▀▄▀█ █▀▀ █▄░█ █░█   █▄▄ ▄▀█ █▀█ █░█
 █ █░▀█ █▀░ █▄█   █░▀░█ ██▄ █░▀█ █▄█   █▄█ █▀█ █▀▄ █▄█
 
@@ -14,7 +13,6 @@ echo " menu baru:"
 echo -e "[+]   "
 echo -e "[+]   "
 echo -e "[+]   "
-sleep 2
 sleep 1
 echo "
 =============================
@@ -31,6 +29,7 @@ sleep 1
 git clone https://github.com/ewepaksa123/menu.git
 cd menu
 bash menu.sh
+fi
 if [ $ren9999 == n ] 
 then
 clear
