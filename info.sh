@@ -15,10 +15,10 @@ echo -e "[+]   "
 sleep 2
 sleep 1
 echo "
-============================
-|| y <mengulangi Tools>   ||
-|| n <keluar Tools>       ||
-============================
+=============================
+|| y <kembali ke menu awal>||
+|| n <keluar Tools>        ||
+=============================
 "
 echo
 read -p"ketik y/n :" ren9999
@@ -26,8 +26,6 @@ if [ $ren9999 == y ]
 then
 clear
 sleep 1
-git clone https://github.com/BOY122333/ToolsRenv2.git
-cd ToolsRenv2
 bash REN.sh
 fi
 if [ $ren9999 == n ] 
