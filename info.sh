@@ -32,6 +32,7 @@ then
 clear
 sleep 1
 bash REN.sh
+fi
 if [ $ren9999 == n ] 
 then
 clear
