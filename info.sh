@@ -17,9 +17,8 @@ echo " menu baru:"
 echo -e "[+]   "
 echo -e "[+]   "
 echo -e "[+]   "
-sleep 2
-sleep 1
-echo "
+seep 1
+echo -e"
 =============================
 || y <<mengulangi Tools>   ||
 || n <keluar Tools>        ||
@@ -36,6 +35,7 @@ fi
 if [ $ren9999 == n ] 
 then
 clear
+sleep 1
 echo "
 ███████╗██╗░░██╗██╗████████╗
 ██╔════╝╚██╗██╔╝██║╚══██╔══╝
