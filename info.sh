@@ -1,5 +1,8 @@
 
 git pull
+git pull
+clear
+git pull
 clear
 sleep 1
 echo "info menu baru ToolsRenv2"
