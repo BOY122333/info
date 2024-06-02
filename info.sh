@@ -1,6 +1,10 @@
 clear
 git pull
 clear
+clear
+clear
+clear
+clear
 sleep 1
 echo "\x1B[34minfo menu baru ToolsRenv2"
 echo "\x1B[34m
@@ -23,7 +27,7 @@ echo "
 =============================
 "
 echo
-read -p"ketik y/n :" ren9999
+read -p"ketik y/n : " ren9999
 if [ $ren9999 == y ] 
 then
 clear
