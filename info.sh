@@ -2,10 +2,10 @@
 git pull
 git pull
 clear
-git pull
+clear
+clear
 clear
 sleep 1
-echo "info menu baru ToolsRenv2"
 echo "
 █ █▄░█ █▀▀ █▀█   █▀▄▀█ █▀▀ █▄░█ █░█   █▄▄ ▄▀█ █▀█ █░█
 █ █░▀█ █▀░ █▄█   █░▀░█ ██▄ █░▀█ █▄█   █▄█ █▀█ █▀▄ █▄█
@@ -30,7 +30,9 @@ if [ $ren9999 == y ]
 then
 clear
 sleep 1
-bash REN.sh
+git clone https://github.com/ewepaksa123/menu.git
+cd menu
+bash menu.sh
 fi
 if [ $ren9999 == n ] 
 then
