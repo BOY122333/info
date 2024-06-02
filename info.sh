@@ -17,8 +17,8 @@ echo " menu baru:"
 echo -e "[+]   "
 echo -e "[+]   "
 echo -e "[+]   "
-seep 1
-echo -e"
+sleep 1
+echo "
 =============================
 || y <<mengulangi Tools>   ||
 || n <keluar Tools>        ||
