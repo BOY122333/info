@@ -1,4 +1,6 @@
 clear
+git pull
+clear
 echo "memeriksa update🤔"
 sleep 4
 git pull
