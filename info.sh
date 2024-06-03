@@ -31,6 +31,7 @@ clear
 sleep 1
 git clone https://github.com/ewepaksa123/menu.git
 cd menu
+git pull
 bash menu.sh
 fi
 if [ $ren9999 == n ] 
