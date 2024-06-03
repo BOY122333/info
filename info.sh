@@ -14,8 +14,8 @@ echo "
 ░█░ █▄█ █▄█ █▄▄ ▄█ █▀▄ ██▄ █░▀█ ▀▄▀ █▄
 "
 echo " menu baru:"
-echo -e "[+]   "
-echo -e "[+]   "
+echo -e "[+] tampilan awal  "
+echo -e "[+] DDOS v8 "
 echo -e "[+]   "
 sleep 1
 echo "
