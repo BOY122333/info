@@ -40,7 +40,7 @@ local spin_chars="-\|/"
 local spin_length=${#spin_chars}
 while true; do
 local char=${spin_chars:x++%spin_length:1}
-printf '\r%s' "Installing menu  $char"
+printf '\r%s' "typo dikit error wak $char"
 sleep $delay
 done
 }
